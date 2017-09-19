@@ -1,0 +1,15 @@
+C:\Pto01\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.exe.config
+C:\Pto01\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.exe
+C:\Pto01\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.pdb
+C:\Pto01\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.csprojResolveAssemblyReference.cache
+C:\Pto01\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.exe
+C:\Pto01\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.pdb
+C:\CLASE 1 C#\Pto01\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.exe.config
+C:\CLASE 1 C#\Pto01\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.exe
+C:\CLASE 1 C#\Pto01\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.pdb
+C:\CLASE 1 C#\Pto01\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.exe
+C:\CLASE 1 C#\Pto01\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.pdb
+C:\CLASE 1 C#\Pto01\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.csprojResolveAssemblyReference.cache
+C:\PrimeraClase\PrimeraClase\bin\Debug\PrimeraClase.exe.config
+C:\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.exe
+C:\PrimeraClase\PrimeraClase\obj\Debug\PrimeraClase.pdb
